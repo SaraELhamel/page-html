@@ -1,0 +1,68 @@
+*{ 
+	color: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat" ,sans-serif;
+}
+.header{
+	height:100px;
+	background:rgb(#808080); 
+		padding:0 20px;
+	color: #fff;
+}
+
+.menu{
+	float:right;
+	line-height:100px;
+}	
+.menu a{
+	color:black;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 0 10px; 
+}
+table, th, td {
+  border: 1px solid black;
+}
+th {
+  text-align: left;
+}
+header ,body,html{
+	width:100%;
+	height:100% ;
+}
+body{
+background-image: url("parallax (1).jpg") ;
+background-position : center;
+background-size: cover;
+}
+p{
+	text-align: justify-all;
+	margin-left: 10%;
+	margin-right: 10%;
+ 
+
+}
+table, th, td {
+  border: 1px solid black;
+  border-color: white;
+  border-collapse: collapse;
+
+}
+ul.a {
+  list-style-type: georgian;
+}
+h1{
+text-align:center;
+}
+h2{
+	text-align:center;
+}
+
+h3{
+	text-align:center;
+}
+
+h4{
+	text-align:center;
+}
